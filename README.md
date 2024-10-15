@@ -1,7 +1,7 @@
 # Web Development Path
 
 ## JavaScript based frameworks
-1. JavaScript  ✅
+1. [JavaScript](https://github.com/sandeepdewangan/js)  ✅
 2. ReactJS   ⏳
 3. NextJS  
 4. React Native  
