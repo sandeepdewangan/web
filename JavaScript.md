@@ -1,3 +1,4 @@
+# JavaScript
 ## VS Code
 
 **Code Editor**: VS Code with Monokai Pro Theme and File icon theme to Seti.
